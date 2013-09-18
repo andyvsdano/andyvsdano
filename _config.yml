@@ -2,4 +2,7 @@ name: Your New Jekyll Site
 markdown: redcarpet
 pygments: true
 baseurl: /AndyVsDano
-yaml title: Site Title description: Describe your website here. disqus_shortname: shortname url: http://your-website.com
+title: Site Title 
+description: Describe your website here. 
+disqus_shortname: 
+shortname url: http://andyvsdano.com
