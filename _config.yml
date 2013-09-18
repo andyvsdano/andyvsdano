@@ -1,8 +1,7 @@
-name: Your New Jekyll Site
-markdown: redcarpet
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+auto: true
 pygments: true
-baseurl: /AndyVsDano
-title: Site Title 
-description: Describe your website here. 
+title: 'AndyVsDano' 
+description: A Competition to see who can lose the most weight the fastest. 
 disqus_shortname: 
 shortname url: http://andyvsdano.com
