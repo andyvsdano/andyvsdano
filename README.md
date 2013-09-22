@@ -1,4 +1,0 @@
-AndyVsDano
-==========
-
-andyvsdano.github.com

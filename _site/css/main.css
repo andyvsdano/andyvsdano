@@ -94,7 +94,8 @@ ul.posts span {
   color: #aaa;
 }
 
-.site .footer {
+.site .footer,
+.copyright {
   font-size: 80%;
   color: #666;
   border-top: 4px solid #eee;
