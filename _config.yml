@@ -1,7 +1,0 @@
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-auto: true
-pygments: true
-title: 'AndyVsDano' 
-description: A Competition to see who can lose the most weight the fastest. 
-disqus_shortname: 
-shortname url: http://andyvsdano.com
