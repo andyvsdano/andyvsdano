@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dano's First 30 Day Plan'"
+title:  "Dano's First 30 Day Plan"
 date:   2013-09-23 9:00:00
 categories: general
 ---
